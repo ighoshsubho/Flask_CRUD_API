@@ -39,12 +39,12 @@ Run it locally
 Pull the Image
 
 ```bash
-  docker pull ighoshsubho/flask-crud-api:0.0.1.RELEASE
+  docker pull ighoshsubho/flask-crud-api:0.0.2.RELEASE
 ```
 Run it
 
 ```bash
-  docker run -d -p 3000:5000 ighoshsubho/flask-crud-api:0.0.1.RELEASE
+  docker run -d -p 3000:5000 ighoshsubho/flask-crud-api:0.0.2.RELEASE
 ```
 
 ## All test Images are in the Images folder
